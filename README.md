@@ -4,8 +4,10 @@ Project was build to analyze customer support tickets to understand SLA breaches
 ## Questions/Objectives
 
 1. How many tickets breached SLA, broken down by priority (low, medium, high, critical)​
-3. Which channels (email, chat, phone, social) have the highest SLA breach rate?
-4. For SLA breaches, what is the average time to resolution vs. tickets that met SLA?
+2. Which channels (email, chat, phone, social) have the highest SLA breach rate?
+3. For SLA breaches, what is the average time to resolution vs. tickets that met SLA?
+4.  How does volume affect SLA?
+5.  How does breach rate trend by month?
 
 ### Why does high breach rate happen?
 High breach rate occurs when there is understaffing or poor routing between channels and priorities
