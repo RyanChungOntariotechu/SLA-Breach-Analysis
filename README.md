@@ -23,10 +23,10 @@ Breach tickets impacts aspects that leaders care about most:
 https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset
 
 ## Tools and Methods
-Excel (data cleaning and set-up)
-Mysql (Query data)
-Juypter notebook (Graph Analysis)
-Microsoft Power Bi (presenting information) 
+1. Excel (data cleaning and set-up)
+2. Mysql (Query data)
+3. Juypter notebook (Graph Analysis)
+4. Microsoft Power Bi (presenting information) 
 ## Key insights 
 N/A
 
