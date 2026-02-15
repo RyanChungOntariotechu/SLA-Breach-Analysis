@@ -20,12 +20,13 @@ Breach tickets impacts aspects that leaders care about most:
 4. Support costs - Messy and slow tickets, escalations and handle time requires more staff for the same volume
 5. Ops planning - Knowing which channel/priority combo causes delays lets managers plan ahead for better staffing, routing and training plans
 ## Data source 
-________
+https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset
 
 ## Tools and Methods
 Excel (data cleaning and set-up)
-Juypter notebook (python and sql)
-
+Mysql (Query data)
+Juypter notebook (Graph Analysis)
+Microsoft Power Bi (presenting information) 
 ## Key insights 
 N/A
 
